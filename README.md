@@ -1,4 +1,4 @@
-# Hi! I'm Abil- aka [euclideands] 👋
+# Hi there, I'm Abil👋
 ## About me:
 - 🔭 I’m associate undergraduate Applied Statistics and Computation student at UNNES
 - 📖 Bangkit Cohort 2023 - Machine Learning Path
